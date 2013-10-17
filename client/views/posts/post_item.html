@@ -1,0 +1,30 @@
+<template name="postItem">
+    <div class="post">
+        <div class="post-content">
+            <div id="post-{{index}}" class="post has-video" style="left: 0%">
+                <img class="featured-image" width="1680" height="944" src="/images/{{image}}" />
+                <div class="content no-body">
+                    <div class="content-inner">
+                        <div class="bg"></div>
+                        <a href="MaydayRED.html#" class="expand">+</a>
+                        <a href="MaydayRED.html#" class="close">&times;</a>
+                        <div class="body-wrap">
+                            <div class="title">{{title}}</div>
+                            <div class="body"></div>
+                        </div>
+                        <div class="share">
+                            <a href="https://twitter.com/share" class="twitter-share-button" data-url="" data-count="none">Tweet</a>
+                            <div class="fb-like" data-href="" data-send="true" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="video">
+                    <div id="youtube_{{id}}"></div>
+                </div>
+                <a id="playbutton_youtube_{{id}}" class="play-button" target="_blank" href="http://www.youtube.com/watch?v={{id}}"></a>
+                <a id="closebutton_youtube_{{id}}" class="close-button" href="MaydayRED.html#{{id}}"></a>
+            </div>
+        </div>
+    </div>
+</template>

@@ -1,0 +1,298 @@
+	<head>
+		<!-- Meta Tags -->
+		<meta charset="utf-8">
+		<title>Mayday RED Official Site</title>
+		<meta name="description" content="Visit Mayday RED' official website for up to date News, Music and Videos" />
+		<meta name="keywords" content="Mayday RED, News, Music, Videos" />
+		<meta name="author" content="Kelly Sonderegger" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1">
+		
+		<!-- OG Tags -->
+		<meta property="og:title" content="Mayday RED Official Site" />
+		<meta property="og:description" content="Visit Mayday RED' official website for up to date News, Music and Videos" />
+		<meta property="og:type" content="website" />
+		<meta property="og:url" content="http://maydayred.com/" />
+		<meta property="og:site_name" content="Mayday RED Official Site" />
+		
+		<!-- Style -->
+		<link href='http://fonts.googleapis.com/css?family=Roboto+Slab' rel='stylesheet' type='text/css'>
+		<link rel="shortcut icon" href="../public/images/favicon.jpg">
+	</head>
+
+	<body>
+		<div id="menu">
+			<div class="album"></div>
+			<a class="itunes" href="https://itunes.apple.com/us/album/stratosphere/id585252298?i=585252306" target="_blank" title="Buy now on iTunes"></a>
+			<br class="mobile" />
+		</div>
+
+		<div id="header">
+            <div class="tab">Mayday RED</div>
+		</div>
+
+		<script>
+			var youtubeVideos = []
+		</script>
+
+		<div id="posts" class="category-page">
+
+			<script> var postCount = 8; </script>
+			<div class="inner">
+
+				<script>youtubeVideos.push({ id: 'OwdQ2hzrBBI' });</script>
+				<div id="post-0" class="post has-video" style="left: 0%">
+										<img class="featured-image" width="1680" height="944" src="../public/images/just-give-me-a-reason.png" />
+
+					
+					<div class="content no-body">
+						<div class="content-inner">
+							<div class="bg"></div>
+							<a href="MaydayRED.html#" class="expand">+</a>
+							<a href="MaydayRED.html#" class="close">&times;</a>
+							<div class="body-wrap">
+								<div class="title">(Pink) P!nk - JUST GIVE ME A REASON ft. Nate Ruess -- (Mayday RED Cover)</div>
+								<div class="body"></div>
+							</div>
+							<div class="share">
+								<a href="https://twitter.com/share" class="twitter-share-button" data-url="" data-count="none">Tweet</a>
+								<div class="fb-like" data-href="" data-send="true" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>
+							</div>
+						</div>
+					</div>
+				
+					<div class="video">
+						<div id="youtube_OwdQ2hzrBBI"></div>
+                    </div>
+					<a id="playbutton_youtube_OwdQ2hzrBBI" class="play-button" target="_blank" href="http://www.youtube.com/watch?v=OwdQ2hzrBBI"></a>
+					<a id="closebutton_youtube_OwdQ2hzrBBI" class="close-button" href="MaydayRED.html#OwdQ2hzrBBI"></a>
+				</div>
+
+			<script>youtubeVideos.push({ id: '0xPaxHen9AA' });</script>
+				<div id="post-1" class="post has-video" style="left: 100%">
+										<img class="featured-image" width="1916" height="1017" src="../public/images/stay.jpg" />
+
+					
+					<div class="content no-body">
+						<div class="content-inner">
+							<div class="bg"></div>
+							<a href="MaydayRED.html#" class="expand">+</a>
+							<a href="MaydayRED.html#" class="close">&times;</a>
+							<div class="body-wrap">
+								<div class="title">Rihanna - Stay ft. Mikky Ekko - (Mayday RED cover)</div>
+								<div class="body"></div>
+							</div>
+							<div class="share">
+								<a href="https://twitter.com/share" class="twitter-share-button" data-url="" data-count="none">Tweet</a>
+								<div class="fb-like" data-href="" data-send="true" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>
+							</div>
+						</div>
+					</div>
+				
+					<div class="video">
+						<div id="youtube_0xPaxHen9AA"></div>
+                    </div>
+					<a id="playbutton_youtube_0xPaxHen9AA" class="play-button" target="_blank" href="http://www.youtube.com/watch?v=0xPaxHen9AA"></a>
+					<a id="closebutton_youtube_0xPaxHen9AA" class="close-button" href="MaydayRED.html#0xPaxHen9AA"></a>
+				</div>
+
+			<script>youtubeVideos.push({ id: 'g842uFcnH0E' });</script>
+				<div id="post-2" class="post has-video" style="left: 100%">
+										<img class="featured-image" width="1912" height="1018" src="../public/images/princess-of-china.png" />
+
+					
+					<div class="content no-body">
+						<div class="content-inner">
+							<div class="bg"></div>
+							<a href="MaydayRED.html#" class="expand">+</a>
+							<a href="MaydayRED.html#" class="close">&times;</a>
+							<div class="body-wrap">
+								<div class="title">COLDPLAY- PRINCESS OF CHINA ft. Rihanna - Mayday RED cover</div>
+								<div class="body"></div>
+							</div>
+							<div class="share">
+								<a href="https://twitter.com/share" class="twitter-share-button" data-url="" data-count="none">Tweet</a>
+								<div class="fb-like" data-href="" data-send="true" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>
+							</div>
+						</div>
+					</div>
+				
+					<div class="video">
+						<div id="youtube_g842uFcnH0E"></div>
+                    </div>
+					<a id="playbutton_youtube_g842uFcnH0E" class="play-button" target="_blank" href="http://www.youtube.com/watch?v=g842uFcnH0E"></a>
+					<a id="closebutton_youtube_g842uFcnH0E" class="close-button" href="MaydayRED.html#g842uFcnH0E"></a>
+				</div>
+
+			<script>youtubeVideos.push({ id: '5XpQDmRefs4' });</script>
+				<div id="post-3" class="post has-video" style="left: 100%">
+										<img class="featured-image" width="1520" height="809" src="../public/images/dont-you-worry-child.png" />
+
+					
+					<div class="content no-body">
+						<div class="content-inner">
+							<div class="bg"></div>
+							<a href="MaydayRED.html#" class="expand">+</a>
+							<a href="MaydayRED.html#" class="close">&times;</a>
+							<div class="body-wrap">
+								<div class="title">DON'T YOU WORRY CHILD -- Swedish House Mafia - Mayday RED Cover</div>
+								<div class="body"></div>
+							</div>
+							<div class="share">
+								<a href="https://twitter.com/share" class="twitter-share-button" data-url="" data-count="none">Tweet</a>
+								<div class="fb-like" data-href="" data-send="true" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>
+							</div>
+						</div>
+					</div>
+				
+					<div class="video">
+						<div id="youtube_5XpQDmRefs4"></div>
+                    </div>
+					<a id="playbutton_youtube_5XpQDmRefs4" class="play-button" target="_blank" href="http://www.youtube.com/watch?v=5XpQDmRefs4"></a>
+					<a id="closebutton_youtube_5XpQDmRefs4" class="close-button" href="MaydayRED.html#5XpQDmRefs4"></a>
+				</div>
+
+			<script>youtubeVideos.push({ id: 'lzcMrR4JxoQ' });</script>
+				<div id="post-4" class="post has-video" style="left: 100%">
+										<img class="featured-image" width="1918" height="1040" src="../public/images/everything-has-changed" />
+
+					
+					<div class="content no-body">
+						<div class="content-inner">
+							<div class="bg"></div>
+							<a href="MaydayRED.html#" class="expand">+</a>
+							<a href="MaydayRED.html#" class="close">&times;</a>
+							<div class="body-wrap">
+								<div class="title">Everything Has Changed - Taylor Swift, ft Ed Sheeran Remix - Mayday RED acoustic cover</div>
+								<div class="body"></div>
+							</div>
+							<div class="share">
+								<a href="https://twitter.com/share" class="twitter-share-button" data-url="" data-count="none">Tweet</a>
+								<div class="fb-like" data-href="" data-send="true" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>
+							</div>
+						</div>
+					</div>
+				
+					<div class="video">
+						<div id="youtube_lzcMrR4JxoQ"></div>
+                    </div>
+					<a id="playbutton_youtube_lzcMrR4JxoQ" class="play-button" target="_blank" href="http://www.youtube.com/watch?v=lzcMrR4JxoQ"></a>
+					<a id="closebutton_youtube_lzcMrR4JxoQ" class="close-button" href="MaydayRED.html#lzcMrR4JxoQ"></a>
+				</div>
+
+			<script>youtubeVideos.push({ id: '6Kx4MFutWkM' });</script>
+				<div id="post-5" class="post has-video" style="left: 100%">
+										<img class="featured-image" width="1912" height="1048" src="../public/images/stratosphere.png" />
+
+					
+					<div class="content no-body">
+						<div class="content-inner">
+							<div class="bg"></div>
+							<a href="MaydayRED.html#" class="expand">+</a>
+							<a href="MaydayRED.html#" class="close">&times;</a>
+							<div class="body-wrap">
+								<div class="title">STRATOSPHERE -- Mayday RED [Dubstep Fusion - original song] - (Official Music Video)</div>
+								<div class="body"></div>
+							</div>
+							<div class="share">
+								<a href="https://twitter.com/share" class="twitter-share-button" data-url="" data-count="none">Tweet</a>
+								<div class="fb-like" data-href="" data-send="true" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>
+							</div>
+						</div>
+					</div>
+				
+					<div class="video">
+						<div id="youtube_6Kx4MFutWkM"></div>
+                    </div>
+					<a id="playbutton_youtube_6Kx4MFutWkM" class="play-button" target="_blank" href="http://www.youtube.com/watch?v=6Kx4MFutWkM"></a>
+					<a id="closebutton_youtube_6Kx4MFutWkM" class="close-button" href="MaydayRED.html#6Kx4MFutWkM"></a>
+				</div>
+
+			<script>youtubeVideos.push({ id: 'U4mULLmihdA' });</script>
+				<div id="post-6" class="post has-video" style="left: 100%">
+										<img class="featured-image" width="1916" height="1042" src="../public/images/poison-and-wine.png" />
+
+					
+					<div class="content no-body">
+						<div class="content-inner">
+							<div class="bg"></div>
+							<a href="MaydayRED.html#" class="expand">+</a>
+							<a href="MaydayRED.html#" class="close">&times;</a>
+							<div class="body-wrap">
+								<div class="title">The Civil Wars - Poison & Wine - LIVE (Mayday RED)</div>
+								<div class="body"></div>
+							</div>
+							<div class="share">
+								<a href="https://twitter.com/share" class="twitter-share-button" data-url="" data-count="none">Tweet</a>
+								<div class="fb-like" data-href="" data-send="true" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>
+							</div>
+						</div>
+					</div>
+				
+					<div class="video">
+						<div id="youtube_U4mULLmihdA"></div>
+                    </div>
+					<a id="playbutton_youtube_U4mULLmihdA" class="play-button" target="_blank" href="http://www.youtube.com/watch?v=U4mULLmihdA"></a>
+					<a id="closebutton_youtube_U4mULLmihdA" class="close-button" href="MaydayRED.html#U4mULLmihdA"></a>
+				</div>
+
+                <script>youtubeVideos.push({ id: '91tAK5FvgSE' });</script>
+                <div id="post-7" class="post has-video" style="left: 100%">
+                    <img class="featured-image" width="1916" height="1042" src="../public/images/get-over-it.png" />
+
+
+                    <div class="content no-body">
+                        <div class="content-inner">
+                            <div class="bg"></div>
+                            <a href="MaydayRED.html#" class="expand">+</a>
+                            <a href="MaydayRED.html#" class="close">&times;</a>
+                            <div class="body-wrap">
+                                <div class="title">GET OVER IT -- Mayday RED (original song) ft. Insane Parkour by Ronnie Shalvis!!</div>
+                                <div class="body"></div>
+                            </div>
+                            <div class="share">
+                                <a href="https://twitter.com/share" class="twitter-share-button" data-url="" data-count="none">Tweet</a>
+                                <div class="fb-like" data-href="" data-send="true" data-width="450" data-show-faces="true" data-colorscheme="dark"></div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="video">
+                        <div id="youtube_91tAK5FvgSE"></div>
+                    </div>
+                    <a id="playbutton_youtube_91tAK5FvgSE" class="play-button" target="_blank" href="http://www.youtube.com/watch?v=91tAK5FvgSE"></a>
+                    <a id="closebutton_youtube_91tAK5FvgSE" class="close-button" href="MaydayRED.html#91tAK5FvgSE"></a>
+                </div>
+			</div>
+		</div>
+
+
+		<a id="left-arrow" class="left" href="MaydayRED.html#"></a>
+		<a id="right-arrow" class="right" href="MaydayRED.html#"></a>
+
+		<div id="indicators">
+			<div class="indicators-inner">
+                <a title="(Pink) P!nk - JUST GIVE ME A REASON ft. Nate Ruess -- (Mayday RED Cover)" id="indicator-0" class="indicator active thumb" href="MaydayRED.html#"><img src="http://img.youtube.com/vi/OwdQ2hzrBBI/2.jpg" width="1680" height="944" /></a>
+                <a title="Rihanna - Stay ft. Mikky Ekko - (Mayday RED cover)" id="indicator-1" class="indicator thumb" href="MaydayRED.html#"><img src="http://img.youtube.com/vi/0xPaxHen9AA/2.jpg" width="1916" height="1017" /></a>
+                <a title="COLDPLAY- PRINCESS OF CHINA ft. Rihanna - Mayday RED cover" id="indicator-2" class="indicator thumb" href="MaydayRED.html#"><img src="http://img.youtube.com/vi/g842uFcnH0E/3.jpg" width="2000" height="2062" /></a>
+                <a title="DON'T YOU WORRY CHILD -- Swedish House Mafia - Mayday RED Cover" id="indicator-3" class="indicator thumb" href="MaydayRED.html#"><img src="http://img.youtube.com/vi/5XpQDmRefs4/3.jpg" width="1912" height="1018" /></a>
+                <a title="Everything Has Changed - Taylor Swift, ft Ed Sheeran Remix - Mayday RED acoustic cover" id="indicator-4" class="indicator thumb" href="MaydayRED.html#"><img src="http://img.youtube.com/vi/lzcMrR4JxoQ/2.jpg" width="1912" height="1018" /></a>
+                <a title="STRATOSPHERE -- Mayday RED [Dubstep Fusion - original song] - (Official Music Video)" id="indicator-5" class="indicator thumb" href="MaydayRED.html#"><img src="http://img.youtube.com/vi/6Kx4MFutWkM/2.jpg" width="1520" height="809" /></a>
+                <a title="The Civil Wars - Poison & Wine - LIVE (Mayday RED)" id="indicator-6" class="indicator thumb" href="MaydayRED.html#"><img src="http://img.youtube.com/vi/U4mULLmihdA/2.jpg" width="1918" height="1040" /></a>
+                <a title="GET OVER IT -- Mayday RED (original song) ft. Insane Parkour by Ronnie Shalvis!!" id="indicator-7" class="indicator thumb" href="MaydayRED.html#"><img src="http://img.youtube.com/vi/91tAK5FvgSE/2.jpg" /></a>
+			</div>
+		</div>
+
+		<div id="footer">
+			<div class="inner">
+				<br class="mobile" />
+				&copy; 2013 Mayday RED. All Rights Reserved
+			</div>
+			<div class="socials">
+				<!--<a class="newsletter" href="newsletter-signup/MaydayRED.html">Sign Up To Our Newsletter</a>-->
+				<br class="mobile" />
+				<a class="social facebook" href="https://www.facebook.com/maydayredmusic" target="_blank" title="Mayday RED on Facebook"></a>
+				<a class="social twitter" href="https://twitter.com/maydayredmusic" target="_blank" title="Mayday RED on Twitter"></a>
+				<a class="social youtube" href="http://www.youtube.com/user/maydayredmusic" target="_blank" title="Mayday RED on YouTube"></a>
+			</div>
+		</div>
+	</body>
